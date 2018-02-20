@@ -2,16 +2,17 @@ name: inverse
 layout: true
 class: center, middle, inverse
 ---
-# もくもくネタ
+# わたしのもくもくネタ
 @yamanetoshi
 
 2018.3.17
 ---
 layout:false
-## 書籍ネタ
+## 書籍関連
 ### プログラマの数学 [http://amzn.to/2EQYJI1](http://amzn.to/2EQYJI1)
 ### 低レベルプログラミング [http://amzn.to/2Hucjj5](http://amzn.to/2Hucjj5)
 ### Anndroid 設計パターン入門 [http://bit.ly/2sG5Vlw](http://bit.ly/2sG5Vlw)
+### etc.
 ---
 ## Android
 ### MVP パターンとか MVVM パターンとか
@@ -41,8 +42,10 @@ layout:false
 ---
 ## Android Things
 ### Raspberry Pi 入手も (ry
+### [http://bit.ly/2olGmR9](http://bit.ly/2olGmR9)
 ---
 ## すごい広島
+### もくもく会のひとつのフォーマット
 ### [http://great-h.github.io/](http://great-h.github.io/)
 ### この方式は良いです
 ### Github 使うのでリモート参加もアリ
@@ -54,6 +57,6 @@ layout:false
 ---
 ## そういえば
 ### 先日フロント系のもくもく会に出席
-### テーマは何でも OK ですよ
+### もくもくするテーマは何でも OK ですよ
 ---
 ## Any question?
