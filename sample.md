@@ -4,6 +4,7 @@ class: center, middle, inverse
 ---
 # もくもくネタ
 @yamanetoshi
+
 2018.3.17
 ---
 layout:false
@@ -15,6 +16,7 @@ layout:false
 ## Android
 ### MVP パターンとか MVVM パターンとか
 ### ぐぐるがサンプル公開してるので読みたい [http://bit.ly/2cCNp3p](http://bit.ly/2cCNp3p)
+### DroidKaigi2018UnitTestHandsOn [http://bit.ly/2EDrBjQ](http://bit.ly/2EDrBjQ)
 ---
 ## FPGA
 ### Pynq 入手も何もしていない
