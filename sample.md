@@ -33,6 +33,7 @@ layout:false
 ## 機械学習
 ### movidius 入手も何もしていない [http://bit.ly/2FhoAqA](http://bit.ly/2FhoAqA)
 ### ぐーぐるが面白い検証環境提供してます [http://bit.ly/2GssRqj](http://bit.ly/2GssRqj)
+![Default-aligned image](00_m.jpg)
 ---
 ## Go ならわかるシステムプログラミング
 ### 確認したい時間がない
