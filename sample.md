@@ -49,7 +49,7 @@ layout:false
 ## 英語
 ### こつこつ [English Grammer in Use](http://amzn.to/2sABlti) 読んでいます
 ### [http://amzn.to/2sABlti](http://amzn.to/2sABlti)
-![Default-aligned image](9780521189064.png)
+![Default-aligned image](9780521189064.jpg)
 ---
 ## Android Things
 ### Raspberry Pi 入手も (ry
