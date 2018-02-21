@@ -26,6 +26,7 @@ layout:false
 ## FPGA
 ### Pynq 入手も何もしていない
 ### [http://bit.ly/2ECwCgx](http://bit.ly/2ECwCgx)
+![Default-aligned image](20180110153259.png)
 ---
 ## 機械学習
 ### movidius 入手も何もしていない [http://bit.ly/2FhoAqA](http://bit.ly/2FhoAqA)
