@@ -20,6 +20,9 @@ layout:false
 ### DroidKaigi2018UnitTestHandsOn [http://bit.ly/2EDrBjQ](http://bit.ly/2EDrBjQ)
 ### Kotlin...
 ---
+## Python
+### Python boot camp [http://bit.ly/2BGZOAj](http://bit.ly/2BGZOAj)
+---
 ## FPGA
 ### Pynq 入手も何もしていない
 ### [http://bit.ly/2ECwCgx](http://bit.ly/2ECwCgx)
@@ -33,8 +36,6 @@ layout:false
 ### [http://bit.ly/2EDW8BP](http://bit.ly/2EDW8BP)
 ---
 ## 将棋
-### AI Player 作りたい
----
 ## 囲碁
 ### AI Player 作りたい
 ---
