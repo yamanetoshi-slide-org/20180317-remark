@@ -39,7 +39,7 @@ layout:false
 ## Go ならわかるシステムプログラミング
 ### 確認したい時間がない
 ### [http://bit.ly/2EDW8BP](http://bit.ly/2EDW8BP)
-![Default-aligned image](progo_530x.png)
+![Default-aligned image](P921309t_o_.jpg)
 ---
 ## 将棋
 ## 囲碁
