@@ -24,6 +24,7 @@ layout:false
 ---
 ## Python
 ### Python boot camp [http://bit.ly/2BGZOAj](http://bit.ly/2BGZOAj)
+![Default-aligned image](python-boot-camp-logo.png)
 ---
 ## FPGA
 ### Pynq 入手も何もしていない
@@ -38,18 +39,22 @@ layout:false
 ## Go ならわかるシステムプログラミング
 ### 確認したい時間がない
 ### [http://bit.ly/2EDW8BP](http://bit.ly/2EDW8BP)
+![Default-aligned image](progo_530x.png)
 ---
 ## 将棋
 ## 囲碁
 ### AI Player 作りたい
+![Default-aligned image](841257.png)
 ---
 ## 英語
 ### こつこつ [English Grammer in Use](http://amzn.to/2sABlti) 読んでいます
 ### [http://amzn.to/2sABlti](http://amzn.to/2sABlti)
+![Default-aligned image](9780521189064.png)
 ---
 ## Android Things
 ### Raspberry Pi 入手も (ry
 ### [http://bit.ly/2olGmR9](http://bit.ly/2olGmR9)
+![Default-aligned image](R1225826-01.jpg)
 ---
 ## すごい広島
 ### もくもく会のひとつのフォーマット
