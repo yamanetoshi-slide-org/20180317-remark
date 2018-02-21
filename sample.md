@@ -6,6 +6,8 @@ class: center, middle, inverse
 @yamanetoshi
 
 2018.3.17
+
+http://bit.ly/2BF85oq
 ---
 layout:false
 ## 書籍関連
