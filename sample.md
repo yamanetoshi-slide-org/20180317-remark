@@ -49,12 +49,12 @@ layout:false
 ## 英語
 ### こつこつ [English Grammer in Use](http://amzn.to/2sABlti) 読んでいます
 ### [http://amzn.to/2sABlti](http://amzn.to/2sABlti)
-![Default-aligned image](9780521189064.jpg)
+![Default-aligned image](s-l300.jpg)
 ---
 ## Android Things
 ### Raspberry Pi 入手も (ry
 ### [http://bit.ly/2olGmR9](http://bit.ly/2olGmR9)
-![Default-aligned image](ー300.jpg)
+![Default-aligned image](R1225826-01.jpg)
 ---
 ## すごい広島
 ### もくもく会のひとつのフォーマット
