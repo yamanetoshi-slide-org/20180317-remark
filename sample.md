@@ -39,7 +39,7 @@ layout:false
 ## Go ならわかるシステムプログラミング
 ### 確認したいが時間がない
 ### [http://bit.ly/2EDW8BP](http://bit.ly/2EDW8BP)
-![Default-aligned image](P921309t_o_.jpg)
+![Default-aligned image](P9213109t_o_.jpg)
 ---
 ## 将棋
 ## 囲碁
@@ -54,7 +54,7 @@ layout:false
 ## Android Things
 ### Raspberry Pi 入手も (ry
 ### [http://bit.ly/2olGmR9](http://bit.ly/2olGmR9)
-![Default-aligned image](R1225826-01.jpg)
+![Default-aligned image](ー300.jpg)
 ---
 ## すごい広島
 ### もくもく会のひとつのフォーマット
