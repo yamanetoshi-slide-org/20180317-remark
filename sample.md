@@ -37,7 +37,7 @@ layout:false
 ![Default-aligned image](00_m.jpg)
 ---
 ## Go ならわかるシステムプログラミング
-### 確認したい時間がない
+### 確認したいが時間がない
 ### [http://bit.ly/2EDW8BP](http://bit.ly/2EDW8BP)
 ![Default-aligned image](P921309t_o_.jpg)
 ---
