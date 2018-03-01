@@ -15,6 +15,7 @@ layout:false
 ### 低レベルプログラミング [http://amzn.to/2Hucjj5](http://amzn.to/2Hucjj5)
 ### Anndroid 設計パターン入門 [http://bit.ly/2sG5Vlw](http://bit.ly/2sG5Vlw)
 ### Linuxのしくみ ~実験と図解で学ぶOSとハードウェアの基礎知識 [http://amzn.to/2ocO5Sn](http://amzn.to/2ocO5Sn)
+### 『ゼロから作るDeep Learning』の続編の公開レビュー [http://bit.ly/2HUdJDL](http://bit.ly/2HUdJDL)
 ---
 ## Android
 ### MVP パターンとか MVVM パターンとか
